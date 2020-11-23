@@ -13,17 +13,14 @@
 </a>
 </br>
 
----
 
 ### :computer: Sobre mim:
   Meu nome é Ricardo, tenho 20 anos, estudante autodidata iniciando na area do desenvolvimento web, atualmente moro em Irai de Minas - MG.
 
----
 
 ### ⛩ Habilidades: 
   Conceitos do Design, HTML5, CSS3, JavaScript .
   
- ---
 
 ### 🔧 Tools:
   Photoshop, Git e GitHub, Visual Studio Code.
