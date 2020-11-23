@@ -1,4 +1,4 @@
-### Olá, Meu nome é Ricardo Silva :man_technologist:
+### Welcome to my profile :man_technologist:
 
 <!--
 **oricardodeveloper/oricardodeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
