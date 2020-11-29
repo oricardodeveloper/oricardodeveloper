@@ -1,4 +1,4 @@
-# :man_technologist: < Ricardo Silva, Developer Jr Front End! >
+## :man_technologist: < Ricardo Silva, Developer Jr Front End! >
 
 ---
 
